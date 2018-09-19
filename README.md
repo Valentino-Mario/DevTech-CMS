@@ -1,2 +1,3 @@
 # DevTech-CMS
-For my CMS project
+For for a a laravel Blog CMS project.
+Super sweet
